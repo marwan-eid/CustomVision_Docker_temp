@@ -1,0 +1,12 @@
+{
+  "DomainType": "Classification",
+  "Platform": "DockerFile",
+  "Flavor": "Windows",
+  "ExporterVersion": "2.0",
+  "ExportedDate": "2019-12-25T22:09:24.1476526Z",
+  "IterationId": "8c81aaa4-90df-4cd6-ab8a-825a3c61fb8e",
+  "ModelFileName": "model.pb",
+  "LabelFileName": "labels.txt",
+  "ModelFileSHA1": "7632600edb08a86f796f39b05f5894819d689bf3",
+  "SchemaVersion": "1.0"
+}
